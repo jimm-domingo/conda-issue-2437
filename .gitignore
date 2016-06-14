@@ -1,0 +1,5 @@
+# The Miniconda installer that's downloaded
+Miniconda3*.sh
+
+# Output file generated when the test is run
+test.out
